@@ -11,7 +11,7 @@ A java program that enables users to log expenses, view all recorded expenses, a
 ## Skills
 - Programming fundamentals (Java)
 - Menu program design
-- ArrayList
+- ArrayList usage
 - I/O file
 - String split and parsing
 
